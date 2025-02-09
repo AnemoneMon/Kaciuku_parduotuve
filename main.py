@@ -7,6 +7,7 @@ kaciukai = [
     ['Misrunas', 'raina', 2, 100]
 ]
 
+
 def pradinis():
     print('1. Rodyti visas turimas kates')
     print('2. Ivesti nauja kate')
